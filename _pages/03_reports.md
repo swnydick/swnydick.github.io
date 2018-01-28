@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reports and Guides
+title: Reports
 permalink: /reports/
 ---
 
