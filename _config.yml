@@ -7,8 +7,8 @@ work_email: nydic001@umn.edu
 cell_phone: 610-804-5448
 description: >
   Psychometrician, Data Scientist, R Programmer
-baseurl: "" # the subpath of your site, e.g. /blog
-url:     "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""                          # the subpath of your site, e.g. /blog
+url:     "http://swnydick.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 social_sites:
   github:   swnydick

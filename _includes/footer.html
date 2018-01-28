@@ -18,8 +18,8 @@
 	  {% endif %}
 	  {% if site.work_email %}
             <li><a class="u-email" href="mailto:{{ site.work_email }}">{{ site.work_email }}</a></li>
-	    {% endif %}
-	    <li><a class="u-email" href={{ site.url }}>{{ site.url }}</a></li>
+	  {% endif %}
+	  <li><a class="u-email" href="{{ "/" | relative_url }}">{{ site.url }}</a></li>
         </ul>
       </div>
 
