@@ -22,7 +22,7 @@ include: ['_pages']
 markdown: kramdown
 kramdown:
   input: GFM
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
