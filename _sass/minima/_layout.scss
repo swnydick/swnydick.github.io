@@ -205,6 +205,10 @@ aside {
   nav {
     float: center;
     max-width: 50%;
+
+    @include media-query($on-laptop) {
+      max-width: 100%;
+    }
     margin-left: auto;
     margin-right: auto;
     ul {
