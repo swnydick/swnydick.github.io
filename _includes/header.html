@@ -16,7 +16,9 @@
     {% assign page_paths = site.header_pages | default: default_paths %}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
-    {%if page.title %}
+    {% if page.layout == "home" or page.is_post  %}
+    <p class="site-title">&nbsp;|&nbsp;Posts</p>
+    {% elsif page.title %}
     <p class="site-title">&nbsp;|&nbsp;{{ page.title }}</p>
     {% endif %}
   </div>
