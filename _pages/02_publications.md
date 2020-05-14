@@ -24,6 +24,9 @@ University of Minnesota.
 
 ## In Press/Published
 
+Wang, C., & Nydick, S. W. (2019). On longitudinal item response theory models: A
+didactic. *Journal of Educational and Behavioral Statistics*, *45*, 339-368.
+
 Wang, C., & Nydick, S. W. (2015). Comparing two algorithms for calibrating
 the restricted non-compensatory multidimensional IRT model.
 *Applied Psychological Measurement*, *39*, 119-134.
@@ -33,6 +36,24 @@ response models. *Journal of Educational and Behavioral Statistics*, *39*,
 203-230.
 
 ## Conference Presentations
+
+Jones, J. A., Nydick, S. W., & Wiseman, B. (2020, April). *Text analytics and NLP
+with R*. Master tutorial at the annual meeting of the Society of Industrial and
+Organizational Psychologists, Austin, TX. (Conference canceled)
+        
+Jones, J. A., Nydick, S. W., & Wiseman, B. (2020, April). *Big data systems with R*.
+Master tutorial at the annual meeting of the Society of Industrial and Organizational
+Psychologists, Austin, TX. (Conference canceled)
+
+Jones, J. A., Nydick, S. W., & Wiseman, B. (2019, April). *Effective data wrangling
+and visualization with R*. Master tutorial at the annual meeting of the Society of
+Industrial and Organizational Psychologists, National Harbor, MD.
+&#91;[Materials]({{ site.url }}/assets/pubs//Nydick2019a.zip)&#93;
+
+Jones, J. A., Nydick, S. W., & Wiseman, B. (2019, April).  *Web Scraping with R*.
+Master tutorial at the annual meeting of the Society of Industrial and Organizational
+Psychologists, National Harbor, MD.
+&#91;[Materials]({{ site.url }}/assets/pubs//Nydick2019b.zip)&#93;
 
 Nydick, S. W. (2016, April). *The expected likelihood ratio in computerized
 classification testing*. Paper presented at the annual meeting of the National
@@ -79,6 +100,3 @@ Tests (R Package Version 0.5-0). Available from
 Jones, J. A., Waller, N. G., & Nydick, S. W. Correlation weights and OLS weights
 in multiple regression: The empirical sampling behavior of cross-validity
 coefficients.
-
-Wang, C., & Nydick, S. W. Measuring multidimensional growth--a higher-order IRT
-perspective.
