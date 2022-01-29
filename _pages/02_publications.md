@@ -37,13 +37,15 @@ response models. *Journal of Educational and Behavioral Statistics*, *39*,
 
 ## Conference Presentations
 
-Jones, J. A., Nydick, S. W., & Wiseman, B. (2020, April). *Text analytics and NLP
+Jones, J. A., Nydick, S. W., & Wiseman, B. (2021, April). *Text analytics and NLP
 with R*. Master tutorial at the annual meeting of the Society of Industrial and
-Organizational Psychologists, Austin, TX. (Conference canceled)
+Organizational Psychologists, New Orleans, LA (Virtual).
+&#91;[Materials](https://github.com/swnydick/siop-2020-text-mining-and-nlp)&#93;
         
-Jones, J. A., Nydick, S. W., & Wiseman, B. (2020, April). *Big data systems with R*.
+Jones, J. A., Nydick, S. W., & Wiseman, B. (2021, April). *Big data systems with R*.
 Master tutorial at the annual meeting of the Society of Industrial and Organizational
-Psychologists, Austin, TX. (Conference canceled)
+Psychologists, New Orleans, LA (Virtual).
+&#91;[Materials](https://github.com/swnydick/siop-2020-big-data-systems)&#93;
 
 Jones, J. A., Nydick, S. W., & Wiseman, B. (2019, April). *Effective data wrangling
 and visualization with R*. Master tutorial at the annual meeting of the Society of
