@@ -37,6 +37,16 @@ response models. *Journal of Educational and Behavioral Statistics*, *39*,
 
 ## Conference Presentations
 
+Nydick, S. W., Lodge, F., & Wang, Y. (2022, April). *Interactive dashboards with
+R and shiny*. Master tutorial at the annual meeting of the Society of Industrial
+and Organizational Psychologists, Seattle, WA.
+&#91;[Materials](https://github.com/swnydick/siop-2022-interactive-shiny)&#93;
+
+Nydick, S. W., Wiseman, B., & Wisner, T. (2022, April). *Natural language
+processing with R and Python*. Master tutorial at the annual meeting of the
+Society of Industrial and Organizational Psychologists, Seattle, WA.
+&#91;[Materials](https://github.com/swnydick/siop-2022-nlp-r-python)&#93;
+
 Jones, J. A., Nydick, S. W., & Wiseman, B. (2021, April). *Text analytics and NLP
 with R*. Master tutorial at the annual meeting of the Society of Industrial and
 Organizational Psychologists, New Orleans, LA (Virtual).
@@ -91,6 +101,11 @@ GMAC Conference on Computerized Adaptive Testing*.
 &#91;[Paper]({{ site.url }}/assets/pubs/Nydick2009.pdf)&#93;
 
 ## Software
+        
+Nydick, S. W. (2021). mupp: An R package for Simulating Responses and Estimating
+Parameters to the Multi-Unidimensional Pairwise Preference (MUPP) Model
+(R Package Version 0.1.0). Available from
+[Github](https://github.com/swnydick/mupp)
 
 Nydick, S. W. (2013). catIrt: An R package for Simulating Computerized Adaptive
 Tests (R Package Version 0.5-0). Available from
