@@ -24,6 +24,9 @@ University of Minnesota.
 
 ## In Press/Published
 
+Cardwell, R., Nydick, S. W., & Lockwood, J. R. (in press). Practical considerations
+when building concordances between English tests. *Language Testing*.
+
 Wang, C., & Nydick, S. W. (2019). On longitudinal item response theory models: A
 didactic. *Journal of Educational and Behavioral Statistics*, *45*, 339-368.
 
@@ -36,6 +39,29 @@ response models. *Journal of Educational and Behavioral Statistics*, *39*,
 203-230.
 
 ## Conference Presentations
+        
+Lockwell, J. R., & Nydick, S. W. (2023, July). *Scalable explanatory IRT modeling
+with sparse data structures*. Paper presented at the International Meeting of the
+Psychometric Society, College Park, MD.
+        
+Cardwell, R. L., & Nydick, S. W. (2023, April). *Considering inter-test relationships
+in high-stakes admissions testing: The case of English.* Paper presented at the
+international conference of the Association of Language Testers in Europe, Madrid,
+Spain.
+        
+Cardwell, R. L., Nydick, S. W., & Lockwood, J. R. (2023, April). *Sampling
+considerations for building concordance tables*. Paper presented at the annual
+meeting of the National Council on Measurement in Education, Chicago, IL.
+        
+Zheng, Y., Nydick, S. W., Zhang, S., & Huang, S. (2023, April). *MxML: Exploring
+the relationship between measurement and machine learning in recent years*. Paper
+presented at the annual meeting of the National Council on Measurement in Education,
+Chicago, IL.
+        
+Cardwell, R. L., Nydick, S. W., & Lockwood, J. R. (2023, March). *Reporting bias
+in correlations between DET and other English proficiency assessments*. Roundtable
+at the annual meeting of the AMerican Association for Applied Linguistics,
+Portland, OR.
 
 Nydick, S. W., Lodge, F., & Wang, Y. (2022, April). *Interactive dashboards with
 R and shiny*. Master tutorial at the annual meeting of the Society of Industrial
@@ -111,9 +137,3 @@ Nydick, S. W. (2013). catIrt: An R package for Simulating Computerized Adaptive
 Tests (R Package Version 0.5-0). Available from
 [CRAN](http://CRAN.R-project.org/package=catIrt) and
 [Github](https://github.com/swnydick/catIrt).
-
-## In Preparation/Under Review
-
-Jones, J. A., Waller, N. G., & Nydick, S. W. Correlation weights and OLS weights
-in multiple regression: The empirical sampling behavior of cross-validity
-coefficients.
