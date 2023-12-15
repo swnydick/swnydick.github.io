@@ -24,8 +24,13 @@ University of Minnesota.
 
 ## In Press/Published
 
-Cardwell, R., Nydick, S. W., & Lockwood, J. R. (in press). Practical considerations
+Nydick (2023). Detecting careless cases in practice tests,
+*Chinese/English Journal of Educational Measurement and Evaluation*, *4*.
+&#91;[Paper](https://www.ce-jeme.org/cgi/viewcontent.cgi?article=1047&context=journal)&#93;
+
+Cardwell, R., Nydick, S. W., & Lockwood, J. R. (2023). Practical considerations
 when building concordances between English tests. *Language Testing*.
+&#91;[Paper](https://journals.sagepub.com/doi/epub/10.1177/02655322231195027)&#93;
 
 Wang, C., & Nydick, S. W. (2019). On longitudinal item response theory models: A
 didactic. *Journal of Educational and Behavioral Statistics*, *45*, 339-368.
