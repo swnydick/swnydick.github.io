@@ -29,7 +29,7 @@ Nydick (2023). Detecting careless cases in practice tests,
 &#91;[Paper](https://www.ce-jeme.org/cgi/viewcontent.cgi?article=1047&context=journal)&#93;
 
 Cardwell, R., Nydick, S. W., & Lockwood, J. R. (2023). Practical considerations
-when building concordances between English tests. *Language Testing*.
+when building concordances between English tests. *Language Testing*. *41*, 192-202,
 &#91;[Paper](https://journals.sagepub.com/doi/epub/10.1177/02655322231195027)&#93;
 
 Wang, C., & Nydick, S. W. (2019). On longitudinal item response theory models: A
@@ -65,7 +65,7 @@ Chicago, IL.
         
 Cardwell, R. L., Nydick, S. W., & Lockwood, J. R. (2023, March). *Reporting bias
 in correlations between DET and other English proficiency assessments*. Roundtable
-at the annual meeting of the AMerican Association for Applied Linguistics,
+at the annual meeting of the American Association for Applied Linguistics,
 Portland, OR.
 
 Nydick, S. W., Lodge, F., & Wang, Y. (2022, April). *Interactive dashboards with
