@@ -24,8 +24,13 @@ University of Minnesota.
 
 ## In Press/Published
 
-Nydick (2023). Detecting careless cases in practice tests,
-*Chinese/English Journal of Educational Measurement and Evaluation*, *4*.
+Zheng, Y., Nydick, S. W., Huang, S., & Zhang, S. MxML (exploring the relationship
+between measurement and machine learning: Current state of the field).
+*Educational Measurement: Issues and Practice*,
+&#91;[Paper](https://onlinelibrary. wiley.com/doi/full/10.1111/emip.12593)&#93;
+
+Nydick, S. W. (2023). Detecting careless cases in practice tests,
+*Chinese/English Journal of Educational Measurement and Evaluation*, *4*. 1-18,
 &#91;[Paper](https://www.ce-jeme.org/cgi/viewcontent.cgi?article=1047&context=journal)&#93;
 
 Cardwell, R., Nydick, S. W., & Lockwood, J. R. (2023). Practical considerations
@@ -34,14 +39,16 @@ when building concordances between English tests. *Language Testing*. *41*, 192-
 
 Wang, C., & Nydick, S. W. (2019). On longitudinal item response theory models: A
 didactic. *Journal of Educational and Behavioral Statistics*, *45*, 339-368.
+&#91;[Paper](https://journals.sagepub.com/doi/10.3102/1076998619882026)&#93;
 
 Wang, C., & Nydick, S. W. (2015). Comparing two algorithms for calibrating
 the restricted non-compensatory multidimensional IRT model.
 *Applied Psychological Measurement*, *39*, 119-134.
+&#91;[Paper](https://journals.sagepub.com/doi/abs/10.1177/0146621614545983)&#93;
 
 Nydick, S. W. (2014). The sequential probability ratio test and binary item
-response models. *Journal of Educational and Behavioral Statistics*, *39*, 
-203-230.
+response models. *Journal of Educational and Behavioral Statistics*, *39*, 203-230.
+&#91;[Paper](https://journals.sagepub.com/doi/abs/10.3102/1076998614524824)&#93;
 
 ## Conference Presentations
         
