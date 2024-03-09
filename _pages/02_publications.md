@@ -26,7 +26,7 @@ University of Minnesota.
 
 Zheng, Y., Nydick, S. W., Huang, S., & Zhang, S. MxML (exploring the relationship
 between measurement and machine learning: Current state of the field).
-*Educational Measurement: Issues and Practice*,
+*Educational Measurement: Issues and Practice*, *43*, 19-38,
 &#91;[Paper](https://onlinelibrary. wiley.com/doi/full/10.1111/emip.12593)&#93;
 
 Nydick, S. W. (2023). Detecting careless cases in practice tests,
