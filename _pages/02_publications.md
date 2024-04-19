@@ -22,10 +22,10 @@ data collection on statistical conclusions*. Master's report in Statistics,
 University of Minnesota.
 &#91;[Paper]({{ site.url }}/assets/pubs/StatMSReport.pdf)&#93;
 
-## In Press/Published
+## Published Manuscripts
 
-Zheng, Y., Nydick, S. W., Huang, S., & Zhang, S. MxML (exploring the relationship
-between measurement and machine learning: Current state of the field).
+Zheng, Y., Nydick, S. W., Huang, S., & Zhang, S. (2024) MxML (exploring the 
+relationship between measurement and machine learning: Current state of the field).
 *Educational Measurement: Issues and Practice*, *43*, 19-38,
 &#91;[Paper](https://onlinelibrary. wiley.com/doi/full/10.1111/emip.12593)&#93;
 
@@ -51,8 +51,17 @@ response models. *Journal of Educational and Behavioral Statistics*, *39*, 203-2
 &#91;[Paper](https://journals.sagepub.com/doi/abs/10.3102/1076998614524824)&#93;
 
 ## Conference Presentations
+
+Nydick, S. W., Cardwell, R. L., & Burstein, J. (2024, April). Examining test
+preparation, test-taker attitudes, and high-stakes outcomes. Paper presented
+at the annual meeting of the National Council on Measurement in Education,
+Philadelphia, PA.
+
+Zheng, Y., Huang, S., Nydick, S. W., & Zhang, S. (2024, April). MxML Phase 2: 
+Survey of the measurement community. Paper presented at the annual meeting of the
+National Council on Measurement in Education, Philadelphia, PA.
         
-Lockwell, J. R., & Nydick, S. W. (2023, July). *Scalable explanatory IRT modeling
+Lockwood, J. R., & Nydick, S. W. (2023, July). *Scalable explanatory IRT modeling
 with sparse data structures*. Paper presented at the International Meeting of the
 Psychometric Society, College Park, MD.
         
