@@ -24,10 +24,15 @@ University of Minnesota.
 
 ## Published Manuscripts
 
-Zheng, Y., Nydick, S. W., Huang, S., & Zhang, S. (2024) MxML (exploring the 
+Cardwell, R., Naismith, B., Burstein, J., Nydick, S. W., Goodwin, S., &
+Verardi, A. (2024). From pen to pixel: Rethinking English language proficiency
+assessments in the digital era. *CALICO Journal*, *41*, 209-234,
+&#91;[Paper](https://journal.equinoxpub.com/Calico/article/view/27104/29591)&#93;
+
+Zheng, Y., Nydick, S. W., Huang, S., & Zhang, S. (2024). MxML (exploring the 
 relationship between measurement and machine learning: Current state of the field).
 *Educational Measurement: Issues and Practice*, *43*, 19-38,
-&#91;[Paper](https://onlinelibrary. wiley.com/doi/full/10.1111/emip.12593)&#93;
+&#91;[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/emip.12593)&#93;
 
 Nydick, S. W. (2023). Detecting careless cases in practice tests,
 *Chinese/English Journal of Educational Measurement and Evaluation*, *4*. 1-18,
