@@ -55,6 +55,13 @@ Nydick, S. W. (2014). The sequential probability ratio test and binary item
 response models. *Journal of Educational and Behavioral Statistics*, *39*, 203-230.
 &#91;[Paper](https://journals.sagepub.com/doi/abs/10.3102/1076998614524824)&#93;
 
+## Book Chapters
+
+Nydick, S. W., Lockwood, J. R., & Liao, M. (2024). Psychometric considerations
+for a computerized adaptive language test. In A. J. Kunnan (Ed.),
+*The Concise Companion to Language Assessment (TCCLA)* (pp. 619-635). Wiley Blackwell.
+&#91;[Book](https://www.wiley.com/en-us/The+Concise+Companion+to+Language+Assessment-p-9781394179596)&#93;
+
 ## Conference Presentations
 
 Nydick, S. W., Cardwell, R. L., & Burstein, J. (2024, April). Examining test
