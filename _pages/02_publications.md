@@ -23,6 +23,17 @@ University of Minnesota.
 &#91;[Paper]({{ site.url }}/assets/pubs/StatMSReport.pdf)&#93;
 
 ## Published Manuscripts
+        
+Fuglestad, P. T., Volz, S., Joyal-Desmarais, K., Nydick, S. W., DeYoung, C. G.,
+& Rothman, A. (2025). A new measure of regulatory focus: Preventing measurement
+error by promoting best validation practices. *Journal of Personality*, *93*,
+683-705. &#91;[Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/jopy.12962)&#93;
+        
+Zheng, Y., Huang, S., Nydick, S. W., & Zhang, S. (2025). MxML (exploring the
+relationship between measurement and machine learning): Survey of the
+measurement community. *Chinese/English Journal of Educational Measurement
+and Evaluation*, *6*, 1-13,
+&#91;[Paper](https://ce-jeme.org/journal/vol6/iss1/3/)&#93;
 
 Cardwell, R., Naismith, B., Burstein, J., Nydick, S. W., Goodwin, S., &
 Verardi, A. (2024). From pen to pixel: Rethinking English language proficiency
@@ -62,7 +73,24 @@ for a computerized adaptive language test. In A. J. Kunnan (Ed.),
 *The Concise Companion to Language Assessment (TCCLA)* (pp. 619-635). Wiley Blackwell.
 &#91;[Book](https://www.wiley.com/en-us/The+Concise+Companion+to+Language+Assessment-p-9781394179596)&#93;
 
-## Conference Presentations
+## Selected Conference Presentations
+        
+Nydick, S. W., & Lockwood, J. R. (2025, July). Bias in item parameter
+estimates given non-ignorable missing data patterns in CAT data. Paper
+presented at the International Meeting of the Psychometric Society,
+Minneapolis, MN.
+        
+Nydick, S. W., & Lockwood, J. R. (2025, April). Developing a scalable item
+parameter estimation algorithm for large and highly sparse data. In
+S. Nydick (chair), *Computational Psychometrics in the Wild: Scalable
+Procedures for Maintaining Test Scores*. [Coordinated Session]. National
+Council on Measurement in Education, Denver, CO.
+       
+Nydick, S. W. (2025, March). Information overload: Maintaining test scores
+in the age of big data. In A. Woo (chair), *EdTech and Computational
+Psychometrics Featured Session: Using Computational Psychometrics and
+Assessment Analytics to Inform Learning*. [Coordinated Session].
+Innovations in Testing, Orlando, FL.
 
 Nydick, S. W., Cardwell, R. L., & Burstein, J. (2024, April). Examining test
 preparation, test-taker attitudes, and high-stakes outcomes. Paper presented
@@ -90,11 +118,6 @@ Zheng, Y., Nydick, S. W., Zhang, S., & Huang, S. (2023, April). *MxML: Exploring
 the relationship between measurement and machine learning in recent years*. Paper
 presented at the annual meeting of the National Council on Measurement in Education,
 Chicago, IL.
-        
-Cardwell, R. L., Nydick, S. W., & Lockwood, J. R. (2023, March). *Reporting bias
-in correlations between DET and other English proficiency assessments*. Roundtable
-at the annual meeting of the American Association for Applied Linguistics,
-Portland, OR.
 
 Nydick, S. W., Lodge, F., & Wang, Y. (2022, April). *Interactive dashboards with
 R and shiny*. Master tutorial at the annual meeting of the Society of Industrial
